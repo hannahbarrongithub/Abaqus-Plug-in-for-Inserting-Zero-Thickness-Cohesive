@@ -19,7 +19,15 @@ Plug-in features
 
 8. Select the "add pore pressure nodes" option to insert the pore-pressure cohesive elements and create a pore-pressure node (intermediate node) set “PorePressure Midnodes”.
 
-Notices: if cohesive elements are not on the boundaries(interfaces), you can insert elements only once for the origin part.
+Notices: 
+1. If cohesive elements are not on the boundaries(interfaces), you can insert elements only once for the origin part.
+
+2. The original part must be meshed with linear elements.
+
+3. The node number and element number must be labeled  from one and be successive. (Renumbering in mesh module when necessary) .
+
+4. There should be no public nodes between the inclusion sets. Otherwise, some error insertion may happen without notification. If you have to do this, please contact the author for help.
+
 
 More details can be found at 
 https://abaquscohesiveelementplugin.quora.com/An-ABAQUS-Plug-in-for-Generating-Cohesive-Elements
