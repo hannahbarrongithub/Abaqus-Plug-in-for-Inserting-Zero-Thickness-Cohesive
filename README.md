@@ -39,7 +39,7 @@ https://youtu.be/Pqs16uhnaWs
 
 Trial download and Purchase
 
-The installation of ABAQUS plug-ins can be found by Google. Before the plug-in is activated by the license file, it can only be used for parts with no more than 2000 elements. There will be no limits on the number of elements and use time after activating.
+The installation of ABAQUS plug-ins can be found by Google. Before the plug-in is activated by the license file, it can only be used for parts with no more than 1000 elements. There will be no limits on the number of elements and use time after activating.
 Applicable to abaqus6.14 and above. The cohesive elements with thickness is available for Abaqus 2018 and above. 
 Any questions about the Plug-in, please contact the author by Skype “live:672366751”
 or Email 672366751@qq.com (mailto:672366751@qq.com)
